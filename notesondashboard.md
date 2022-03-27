@@ -1,0 +1,5 @@
+# Want to build a dashboard that shows the tables and the map of the Top 10 most expensive suburbs 
+# what I would like to show is the cost of certain Toronto dwellings as well as the values
+# what this will highlight is the fact that owning property is so much better than renting as renters pay more costs then owners and yet the owners have an asset that has regularly grown in the last couple of decades 
+# Also want to show the overall data vs the more expensive suburbs. What this may show is that sometimes people know they cant afford the most expensive neighbourhoods but by giving them a list of suburbs as well as a map to see where they are they may wish to live near the expensive suburbs even if they dont live in them. In doing so they may feel that when the more epxensive suburbs grow in value so will theirs. 
+# Therefore the data on the dashboard will shows costs, and values, and also show total Toronto data and the expensive suburbs, as well as the interactive map that will allow people to get a view of where certain suburbs are located relative to the expensive ones. 
